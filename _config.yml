@@ -1,5 +1,5 @@
 
-title: Meu CV
+title: Online CV
 url: 'https://denisbernardo.com'
 baseurl: 'https://denisbernardo.com/' #change it according to your repository name
 
@@ -14,8 +14,8 @@ baseurl: 'https://denisbernardo.com/' #change it according to your repository na
 
 #Profile information
 name: Denis Bernardo
-tagline: Web Developer
-pic: perfil.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+tagline: Software Developer
+pic: perfil2.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
 #sidebar links
 email: oi@denisbernardo.com
